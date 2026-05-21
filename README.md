@@ -2,19 +2,7 @@
 
 _This repository is public._
 
-<!-- PCD-INFO:START -->
-## Public Committee Draft (PCD) Notice
-
-The following elements are made available for a public review period ending no later than 2025-12-03:
-<ul>
-<li><a href=https://github.com/SMPTE/st2125/blob/main/34CS-CD-ST-2125-IMF-Registration-API-2020-11-12.pdf>34CS-CD-ST-2125-IMF-Registration-API-2020-11-12.pdf
-</a></li>
-<li><a href=https://github.com/SMPTE/st2125/blob/main/34CS-CD-ST-2125a-IMF-Registration-API-json-2020-11-12(normative).json>34CS-CD-ST-2125a-IMF-Registration-API-json-2020-11-12(normative).json</a></li>
-<li><a href=https://github.com/SMPTE/st2125/blob/main/34CS-CD-ST-2125b-IMF-Registration-API-yaml-2020-11-12(informative).yml>34CS-CD-ST-2125b-IMF-Registration-API-yaml-2020-11-12(informative).yml</a></li>
-<li><a href=https://github.com/SMPTE/st2125/blob/main/README.md>README.md</a></li>
-</ul>
-
-<!-- PCD-INFO:END -->
+<!-- PCD-INFO:START --><!-- PCD-INFO:END -->
 
 ## IMF Registration API
 
