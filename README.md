@@ -14,11 +14,11 @@ The following elements are made available for a public review period ending no l
 <li><a href=https://github.com/SMPTE/st2125/blob/main/README.md>README.md</a></li>
 </ul>
 
+<!-- PCD-INFO:END -->
+
 ## IMF Registration API
 
 [GitHub issues](https://github.com/SMPTE/st2125/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 34cs-chair@smpte.org.
-
-<!-- PCD-INFO:END -->
 
 ## Notices
 
