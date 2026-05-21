@@ -2,7 +2,7 @@
 
 _This repository is public._
 
-<!-- PCD-INFO:START --><!-- PCD-INFO:END -->
+<!-- PCD-INFO:START -->
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no later than 2025-12-03:
