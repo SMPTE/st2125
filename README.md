@@ -1,5 +1,8 @@
-# Public CD of SMPTE ST 2125
+# SMPTE ST 2125
 
+_This repository is public._
+
+<!-- PCD-INFO:START --><!-- PCD-INFO:END -->
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no later than 2025-12-03:
@@ -15,17 +18,13 @@ The following elements are made available for a public review period ending no l
 
 [GitHub issues](https://github.com/SMPTE/st2125/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 34cs-chair@smpte.org.
 
-This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
+<!-- PCD-INFO:END -->
 
-## Contributor License Agreement (CLA) notice
+## Notices
 
-Please be aware that all contributions to this material are being conducted in accordance with the SMPTE Standards Operations Manual, which is accessible on the SMPTE website with the Society Bylaws:https://www.smpte.org/about/policies-and-governanceYour comments and contributions, whether as a member or guest, are governed by these provisions and any comment or contribution made by you indicates your acknowledgement that you understand and are complying with the full form of the Operations Manual. Please take careful note of the sections requiring contributors to inform the Committee of personal knowledge of any claims under any issued patent or any patent application that likely would be infringed by an implementation of this material. This general reminder is not a substitute for a contributor’s responsibility to fully read, understand, and comply with the full Standards Operations Manual.
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md) and [PATENTS.md](./PATENTS.md) for
+important notices.
 
-## Copyright notice
-
-Copyright © by the Society of Motion Picture and Television Engineers. All rights reserved. No part of this material may be reproduced, by any means whatsoever, without the prior written permission of the Society of Motion Picture and Television Engineers.
-
-## Patent notice
-
-Attention is drawn to the possibility that some of the elements of this material may be the subject of patent rights. SMPTE shall not be held responsible for identifying any or all such patent rights.
+Unless specified otherwise, the contents of this repository are licensed as
+indicated at [LICENSE.md](./LICENSE.md).
 
